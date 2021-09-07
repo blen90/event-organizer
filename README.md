@@ -4,7 +4,7 @@
   
 ## Description  
   
-This is a web application that utilizes MySQL, Handlebars, and several Node.js packages to deliver a live event search and save tool. You can also use it to create and save your own events.  
+This is a web application that utilizes MySQL, Handlebars, and several Node.js packages to deliver a live event search by Zipcode and save tool. The user can also use it to create and save their own events. Once the user has saved a searched event or a created event these will show up in their personal dashboard. 
   
 ## Technologies Used  
 
