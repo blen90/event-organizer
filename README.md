@@ -43,7 +43,7 @@ Visit the deployed app in the following link: https://gentle-reaches-60799.herok
 
 # License
 
-This project is governed by: MIT License
+This project is governed by: ISC License
   
 ## Contributors 
   
