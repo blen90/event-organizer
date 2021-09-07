@@ -16,7 +16,7 @@ This is a web application that utilizes MySQL, Handlebars, and several Node.js p
 * Handlebars
 * Sequelize
 * CSS3
-* ES6+
+* JavaScript ES6+
 * SeatGeek API
   
 ## Table of Contents  
